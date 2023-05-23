@@ -10,7 +10,7 @@ dt.find('.fd-datatable table tr th:last-child,.fd-datatable table tr td:last-chi
 })
 
 
-
+});
 
 
 
