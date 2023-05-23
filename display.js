@@ -1,4 +1,7 @@
 define(function (edit){
+console.log("helo!");
+
+
   var dt = $(fd.control('SPDataTable1').$el);
 //hides 'Add new record' button  
 dt.find('.fd-datatable div.k-header.k-grid-toolbar').css('display', 'none')
