@@ -17,6 +17,7 @@ pnp.sp.profiles.MyPrperties.get().then(function(result) {
 
     }
   }
+});
   var dt = $(fd.control("SPDataTable1").$el);
   //hides 'Add new record' button
   fd.control("SPDataTable1").widget.dataSource.filter({
